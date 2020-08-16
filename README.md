@@ -25,4 +25,4 @@ Here, I used Euclidean distance to calculate the distance between nearest neighb
   KNN uses all the processing capacity during Testing phase unlike most of the algorithms. This make training faster but testing slower and costlier.
 
 
-### ***Instead of using KNN as a black-box, I wanted to show the ins and outs of the algorithm in this code***
+#### ***Instead of using KNN as a black-box, I wanted to show the ins and outs of the algorithm in this code***
