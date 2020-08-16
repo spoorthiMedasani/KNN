@@ -4,9 +4,9 @@ K-Nearest Neighbors is a classification assumes that data points that are close 
 
 There are multiple approaches to calculate the distance between two points in n-dimensional space
 
-•	Minkowski Distance
-•	Manhattan Distance
-•	Euclidean Distance
+  1. Minkowski Distance
+  2. Manhattan Distance
+  3. Euclidean Distance
  
 
 Here, I used Euclidean distance to calculate the distance between nearest neighbors.
