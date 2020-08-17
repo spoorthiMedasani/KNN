@@ -1,5 +1,5 @@
 ## **Overview:**
-K-Nearest Neighbors is a classification assumes that data points that are close to each other have similar labels.
+K-Nearest Neighbors is a classification algorithm that assumes data points that are closer to each other have similar labels.
 
 
 There are multiple approaches to calculate the distance between two points in n-dimensional space
