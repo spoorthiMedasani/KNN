@@ -17,12 +17,12 @@ Here, I used Euclidean distance to calculate the distance between nearest neighb
    
 
 ## **Drawbacks of KNN:**
-  1. Curse of Dimensionality- KNN performs well with less features. A way around this is to use dimensionality reduction techniques like PCA (Principal Component Analysis)
+  1. Curse of Dimensionality- KNN performs well with less number of features. A way around this is to use dimensionality reduction techniques like PCA (Principal Component Analysis)
   2. Requires more storage capacity when more data is available.
 
 
 ## **Fun Fact:**
-  KNN uses all the processing capacity during Testing phase unlike most of the algorithms. This make training faster but testing slower and costlier.
+  KNN uses all the processing capacity during Testing phase unlike most algorithms. This make training faster but testing slower and costlier.
 
 
 #### ***Instead of using KNN as a black-box, I wanted to show the ins and outs of the algorithm in this code***
